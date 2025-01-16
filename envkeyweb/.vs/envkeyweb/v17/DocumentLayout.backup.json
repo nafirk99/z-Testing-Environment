@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\z-Testing-Environment\\envkeyweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|e:\\project\\z-testing-environment\\envkeyweb\\envkeyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|solutionrelative:envkeyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|e:\\project\\z-testing-environment\\envkeyweb\\envkeyweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|solutionrelative:envkeyweb\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|e:\\project\\z-testing-environment\\envkeyweb\\envkeyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|solutionrelative:envkeyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|e:\\project\\z-testing-environment\\envkeyweb\\envkeyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|solutionrelative:envkeyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|e:\\project\\z-testing-environment\\envkeyweb\\envkeyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|solutionrelative:envkeyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|e:\\project\\z-testing-environment\\envkeyweb\\envkeyweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|solutionrelative:envkeyweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|e:\\project\\z-testing-environment\\envkeyweb\\envkeyweb\\logs\\web-log-20250116.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A90B9E8B-F324-4D5D-9CF1-65D0D19F2207}|envkeyweb\\envkeyweb.csproj|solutionrelative:envkeyweb\\logs\\web-log-20250116.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "envkeyweb\\appsettings.Production.json",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\appsettings.Production.json",
+              "RelativeToolTip": "envkeyweb\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T11:00:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "envkeyweb\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "envkeyweb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:57:13.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "envkeyweb\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "envkeyweb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T08:24:28.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "envkeyweb\\appsettings.Development.json",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\appsettings.Development.json",
+              "RelativeToolTip": "envkeyweb\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T09:52:38.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "web-log-20250116.log",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\Logs\\web-log-20250116.log",
+              "RelativeDocumentMoniker": "envkeyweb\\Logs\\web-log-20250116.log",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\Logs\\web-log-20250116.log",
+              "RelativeToolTip": "envkeyweb\\Logs\\web-log-20250116.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-01-16T08:41:51.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\Program.cs",
+              "RelativeDocumentMoniker": "envkeyweb\\Program.cs",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\Program.cs*",
+              "RelativeToolTip": "envkeyweb\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:35:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\appsettings.json",
+              "RelativeDocumentMoniker": "envkeyweb\\appsettings.json",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\envkeyweb\\envkeyweb\\appsettings.json",
+              "RelativeToolTip": "envkeyweb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T08:24:21.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\z-Testing-Environment\\NEC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|e:\\project\\z-testing-environment\\nec\\nec.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|solutionrelative:nec.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|e:\\project\\z-testing-environment\\nec\\nec.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|solutionrelative:nec.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|e:\\project\\z-testing-environment\\nec\\nec.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|solutionrelative:nec.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|e:\\project\\z-testing-environment\\nec\\nec.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|solutionrelative:nec.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|e:\\project\\z-testing-environment\\nec\\nec.api\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|solutionrelative:nec.api\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|e:\\project\\z-testing-environment\\nec\\nec.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|solutionrelative:nec.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|e:\\project\\z-testing-environment\\nec\\nec.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1D3E5C-02BE-47D6-9CCF-C5D46143977F}|NEC.API\\NEC.API.csproj|solutionrelative:nec.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "NEC.API\\appsettings.Production.json",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\appsettings.Production.json",
+              "RelativeToolTip": "NEC.API\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T13:24:39.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Staging.json",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\appsettings.Staging.json",
+              "RelativeDocumentMoniker": "NEC.API\\appsettings.Staging.json",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\appsettings.Staging.json",
+              "RelativeToolTip": "NEC.API\\appsettings.Staging.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T13:23:53.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NEC.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NEC.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T11:19:52.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NEC.API\\appsettings.Development.json",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\appsettings.Development.json",
+              "RelativeToolTip": "NEC.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T12:57:28.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NEC.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NEC.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:17:56.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NEC.API\\appsettings.json",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\appsettings.json",
+              "RelativeToolTip": "NEC.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T07:02:18.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\Program.cs",
+              "RelativeDocumentMoniker": "NEC.API\\Program.cs",
+              "ToolTip": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\Program.cs",
+              "RelativeToolTip": "NEC.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:00:27.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

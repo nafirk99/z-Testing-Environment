@@ -1,0 +1,62 @@
+{
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production",
+        "ASPNETCORE_APIURL": "http://localhost:5208/http"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5208"
+    },
+    "https": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_APIURL": "http://localhost:5208/https"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7018;http://localhost:5208"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_APIURL": "http://localhost:5208/IIS"
+      }
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:7018",
+      "environmentVariables": {
+        "ASPNETCORE_APIURL": "http://localhost:5208/https",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "https://localhost:7018;http://localhost:5208"
+      },
+      "distributionName": ""
+    },
+    "Staging": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_APIURL": "http://localhost:5208/Staging"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7018;http://localhost:5208"
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:50779",
+      "sslPort": 44344
+    }
+  }
+}

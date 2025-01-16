@@ -1,0 +1,35 @@
+2025-01-16 14:39:15.341 +06:00 [INF] Env Info : http://localhost:5208
+2025-01-16 14:40:42.796 +06:00 [INF] Env Info : http://localhost:5208/http
+2025-01-16 14:40:44.101 +06:00 [WRN] Failed to determine the https port for redirect.
+2025-01-16 14:41:40.272 +06:00 [INF] Env Info : http://localhost:5208/http
+2025-01-16 14:41:41.903 +06:00 [WRN] Failed to determine the https port for redirect.
+2025-01-16 15:34:18.065 +06:00 [INF] Env Info : http://localhost:5208/http
+2025-01-16 15:34:20.114 +06:00 [WRN] Failed to determine the https port for redirect.
+2025-01-16 15:34:44.711 +06:00 [INF] Env Info : http://localhost:5208/https
+2025-01-16 15:35:05.331 +06:00 [INF] Env Info : http://localhost:5208/IIS
+2025-01-16 15:35:27.249 +06:00 [INF] Env Info : http://localhost:5208/Staging
+2025-01-16 15:35:39.081 +06:00 [INF] Env Info : http://localhost:5208/Staging
+2025-01-16 15:36:47.625 +06:00 [INF] Env Info : http://localhost:5208/Staging
+2025-01-16 15:37:46.300 +06:00 [INF] Env Info : http://localhost:5208/Staging
+2025-01-16 15:43:23.656 +06:00 [INF] Env Info : Development
+2025-01-16 15:43:49.850 +06:00 [INF] Env Info : Development
+2025-01-16 15:54:31.087 +06:00 [INF] Env Info : Development
+2025-01-16 15:54:37.726 +06:00 [INF] Env Info : Development
+2025-01-16 16:00:00.220 +06:00 [INF] Env Info : Development
+2025-01-16 16:00:31.512 +06:00 [INF] Env Info : Development
+2025-01-16 16:00:48.355 +06:00 [INF] Env Info : Development
+2025-01-16 16:01:32.265 +06:00 [INF] Env Info : http://localhost:5208/https
+2025-01-16 16:01:47.013 +06:00 [INF] Env Info : http://localhost:5208/Staging
+2025-01-16 16:02:00.738 +06:00 [INF] Env Info : http://localhost:5208/Staging
+2025-01-16 16:02:10.444 +06:00 [INF] Env Info : http://localhost:5208/https
+2025-01-16 16:02:22.506 +06:00 [INF] Env Info : http://localhost:5208/http
+2025-01-16 16:02:23.903 +06:00 [WRN] Failed to determine the https port for redirect.
+2025-01-16 16:58:58.349 +06:00 [INF] Env Info : http://localhost:5208/http
+2025-01-16 16:58:59.892 +06:00 [WRN] Failed to determine the https port for redirect.
+2025-01-16 17:01:18.174 +06:00 [INF] Env Info : http://localhost:5208/http
+2025-01-16 17:01:19.853 +06:00 [WRN] Failed to determine the https port for redirect.
+2025-01-16 17:01:38.210 +06:00 [INF] Env Info : http://localhost:5208/http
+2025-01-16 17:01:39.813 +06:00 [WRN] Failed to determine the https port for redirect.
+2025-01-16 17:01:58.161 +06:00 [INF] Env Info : http://localhost:5208/http
+2025-01-16 17:01:59.774 +06:00 [WRN] Failed to determine the https port for redirect.
+2025-01-16 17:02:31.815 +06:00 [INF] Env Info : http://localhost:5208/https
