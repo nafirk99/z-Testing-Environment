@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mrkQ7G0GLwXTs/DA+kgLPCbhRbs2JFN8eNZSl44Rdmg=",
+  "Source": "NEC.API",
+  "BasePath": "_content/NEC.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

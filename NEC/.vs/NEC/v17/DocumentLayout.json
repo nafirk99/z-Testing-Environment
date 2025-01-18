@@ -50,8 +50,7 @@
               "RelativeToolTip": "NEC.API\\appsettings.Production.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T13:24:39.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:24:39.788Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "NEC.API\\appsettings.Staging.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T13:23:53.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T13:23:53.735Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "NEC.API\\Properties\\launchSettings.json",
               "ToolTip": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "NEC.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-15T11:19:52.791Z",
               "EditorCaption": ""
@@ -114,8 +112,7 @@
               "RelativeToolTip": "NEC.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-14T07:02:18.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T07:02:18.089Z"
             },
             {
               "$type": "Document",
@@ -125,7 +122,7 @@
               "RelativeDocumentMoniker": "NEC.API\\Program.cs",
               "ToolTip": "E:\\Project\\z-Testing-Environment\\NEC\\NEC.API\\Program.cs",
               "RelativeToolTip": "NEC.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T07:00:27.009Z",
               "EditorCaption": ""

@@ -1,0 +1,231 @@
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\appsettings.json
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\NEC.API.staticwebassets.endpoints.json
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\NEC.API.exe
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\NEC.API.deps.json
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\NEC.API.runtimeconfig.json
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\NEC.API.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\NEC.API.pdb
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Serilog.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.csproj.AssemblyReference.cache
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.AssemblyInfoInputs.cache
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.AssemblyInfo.cs
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.csproj.CoreCompileInputs.cache
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.sourcelink.json
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\scopedcss\bundle\NEC.API.styles.css
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.NEC.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.NEC.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.build.NEC.API.props
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NEC.API.props
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NEC.API.props
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.csproj.Up2Date
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.dll
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\refint\NEC.API.dll
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.pdb
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\NEC.API.genruntimeconfig.cache
+E:\Project\NECProject\NEC\NEC.API\obj\Debug\net8.0\ref\NEC.API.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\NEC.API.staticwebassets.endpoints.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\appsettings.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\appsettings.Staging.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\NEC.API.exe
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\NEC.API.deps.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\NEC.API.runtimeconfig.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\NEC.API.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\NEC.API.pdb
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Serilog.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.csproj.AssemblyReference.cache
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.AssemblyInfoInputs.cache
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.AssemblyInfo.cs
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.csproj.CoreCompileInputs.cache
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.sourcelink.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\scopedcss\bundle\NEC.API.styles.css
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.NEC.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.NEC.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.build.NEC.API.props
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NEC.API.props
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NEC.API.props
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.csproj.Up2Date
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\refint\NEC.API.dll
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.pdb
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\NEC.API.genruntimeconfig.cache
+E:\Project\z-Testing-Environment\NEC\NEC.API\obj\Debug\net8.0\ref\NEC.API.dll
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\NECProject\NEC\NEC.API\bin\Debug\net8.0\appsettings.Staging.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\appsettings.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\appsettings.Production.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\appsettings.Staging.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\NEC.API.staticwebassets.endpoints.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\NEC.API.exe
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\NEC.API.deps.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\NEC.API.runtimeconfig.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\NEC.API.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\NEC.API.pdb
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Serilog.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.Text.Json.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.csproj.AssemblyReference.cache
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.AssemblyInfoInputs.cache
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.AssemblyInfo.cs
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.csproj.CoreCompileInputs.cache
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.sourcelink.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\scopedcss\bundle\NEC.API.styles.css
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.NEC.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.NEC.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.build.NEC.API.props
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NEC.API.props
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NEC.API.props
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.csproj.Up2Date
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\refint\NEC.API.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.pdb
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\NEC.API.genruntimeconfig.cache
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\obj\Debug\net8.0\ref\NEC.API.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Azure.Core.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.ClientModel.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\z-Testing-Environment\Test ADO\NEC\NEC.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
