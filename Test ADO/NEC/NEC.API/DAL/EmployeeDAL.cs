@@ -129,6 +129,6 @@ namespace NEC.API.DAL
                 _connection.Close();
             }
             return deletedRowCount > 0 ? true : false;
-        }
+        } 
     }
 }

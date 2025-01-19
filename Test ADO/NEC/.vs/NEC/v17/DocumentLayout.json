@@ -58,8 +58,7 @@
               "RelativeToolTip": "NEC.API\\Models\\Employee.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T14:43:46.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T14:43:46.421Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "NEC.API\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAwwFMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T14:38:27.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T14:38:27.756Z"
             },
             {
               "$type": "Document",
@@ -82,7 +80,7 @@
               "RelativeDocumentMoniker": "NEC.API\\DAL\\EmployeeDAL.cs",
               "ToolTip": "E:\\Project\\z-Testing-Environment\\Test ADO\\NEC\\NEC.API\\DAL\\EmployeeDAL.cs",
               "RelativeToolTip": "NEC.API\\DAL\\EmployeeDAL.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwIMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T13:14:21.625Z",
               "EditorCaption": ""
@@ -97,8 +95,7 @@
               "RelativeToolTip": "NEC.API\\Program.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAAAGQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:00:27.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T07:00:27.009Z"
             },
             {
               "$type": "Document",
