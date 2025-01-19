@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NEC.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc1104d42a74b8225cc20d9f9a61273b3d132480")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+240260b148ec0f00f92b909115d24da4f8080a4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NEC.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NEC.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

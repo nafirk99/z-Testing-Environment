@@ -1,12 +1,81 @@
 [
   {
     "ContainingType": "NEC.API.Controllers.EmployeeController",
+    "Method": "Delete",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEC.API.Controllers.EmployeeController",
+    "Method": "Create",
+    "RelativePath": "api/Employee/CreateEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "NEC.API.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEC.API.Controllers.EmployeeController",
     "Method": "GetAll",
     "RelativePath": "api/Employee/GetAll",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEC.API.Controllers.EmployeeController",
+    "Method": "GetById",
+    "RelativePath": "api/Employee/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEC.API.Controllers.EmployeeController",
+    "Method": "Update",
+    "RelativePath": "api/Employee/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "employee",
+        "Type": "NEC.API.Models.Employee",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
